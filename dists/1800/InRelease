@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: Your project name
+Label: Your project name
+Codename: 1800
+Date: Sat, 07 Oct 2023 12:44:37 UTC
+Architectures: iphoneos-arm64
+Components: main testing
+Description: temporary repo for FRM
+MD5Sum:
+ cceae20546e41d81d0b2188548481441 1209 main/binary-iphoneos-arm64/Packages
+ aebc78298ceb7f7cc3d20d088be760ba 679 main/binary-iphoneos-arm64/Packages.gz
+ f1a05909a0128c303cf74e1333589cc1 132 main/binary-iphoneos-arm64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 testing/binary-iphoneos-arm64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 testing/binary-iphoneos-arm64/Packages.gz
+ 634db22a3adc398cc4a17234cff11863 135 testing/binary-iphoneos-arm64/Release
+SHA1:
+ 25fad913c70650ad23b57b952a5638258a31c759 1209 main/binary-iphoneos-arm64/Packages
+ a6c4ed8fe8e6fc82208251c0ae32dfade7a3c064 679 main/binary-iphoneos-arm64/Packages.gz
+ ff54a3be246119c8378f1a124ffffb29895cadaa 132 main/binary-iphoneos-arm64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 testing/binary-iphoneos-arm64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 testing/binary-iphoneos-arm64/Packages.gz
+ ff23bab319fe9297a209250cb7cf5b610a530916 135 testing/binary-iphoneos-arm64/Release
+SHA256:
+ bfa433a5e220c613c390be82c1c36ad6b1e2f669e626291757a389bb20640fc1 1209 main/binary-iphoneos-arm64/Packages
+ 20777686134f0baaff9a7528955690bc7cd0ac638cadf1f1010bdbdef53ae192 679 main/binary-iphoneos-arm64/Packages.gz
+ 0aea55821ba4e46f958003590df797d5002d22ea216a96ae013b42ad82c3988c 132 main/binary-iphoneos-arm64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 testing/binary-iphoneos-arm64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 testing/binary-iphoneos-arm64/Packages.gz
+ 8d7f685470a1f47b9ba915de1e46e1f27ae538fee4fa70f238eb682a74e6c3d4 135 testing/binary-iphoneos-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEUomYKzSAvRJxBOIzXB2korYh57AFAmUhUrUACgkQXB2korYh
+57AojBAAjTDHg2tPHBhMyJOmk7aXoqAm3rG0/M9XR3vhvnIg5EYfuk6ZgMmBmAEt
+RRW76nhlisukEPvy59dai34jvZgV/FcIu+7zAsiE8AprZqvLRChYW8OvAgkkg3Ap
+UrRhjaXJ3qHVs/tZjQn0P27QYTD+GJcDdydtrM1aNvpc/FeXkMOPTjWyhMOxImAA
+ga4G5+j9hBULggBJsVKurOGGIzsnJbjHui/CGQhse6E5myvPQMaBmL5JFtFj3Icd
+LKDKhVh77Y8rQBM/dfZ8bYU784bbaU7ahASeHqu6AV+wtax5x3eKL55mb58TDnt0
+v4Hc5YlUFdN5C17OjGM5phfykP8BVfTrCq7nB3CZEYvyQqgVGy92+NXaNiibWXv/
+P5LkFd+vCE9JQHEokiRlaOj7HXsK1wsYI39LcsFD9DDAW3fEaN4IT4GSRUfOwxt2
+BFmE33s4htgUdh9BsqQEw+gcmea1vA9ByYCAS8mTN7ALjiRduz5b4CyoM8+C8Wj1
+HxgbWg2f7J46sC0+aXu64iptmUnLvvV1xXIRgilp6EzvilHhig+mdPg7HsEYGC2Y
+J6/2GUvgWJLnqRm82XIG3mpYPq1VWQACh9bMhYxQryEd3iAPbEYKG01QkcdaLH/2
+VOGVEITsMU+9SGbBQAUZQzQOve7gwcy1BVbwSalFx/qKH0eA+AQ=
+=pDpZ
+-----END PGP SIGNATURE-----

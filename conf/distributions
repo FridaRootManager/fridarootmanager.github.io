@@ -1,0 +1,7 @@
+Origin: Your project name
+Label: Your project name
+Codename: 1800
+Architectures: iphoneos-arm64
+Components: main testing
+Description: temporary repo for FRM
+SignWith: E9F0A9E048659D5B80CDFC395160700AA33A3985

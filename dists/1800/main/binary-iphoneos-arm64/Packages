@@ -1,0 +1,36 @@
+Package: shell-cmds
+Version: 278-02
+Architecture: iphoneos-arm64
+Maintainer: Frida Team
+Depends: libiosexec1 (>= 1.3.1), libpam2
+Conflicts: coreutils (<< 8.32-9), shell-cmds (<< 278-2)
+Provides: killall, which
+Priority: important
+Section: Administration
+Filename: pool/main/s/shell-cmds/shell-cmds_278-02_iphoneos-arm64.deb
+Size: 88072
+SHA256: 40459f4708068dead1664fe6bc8e9ca46943836fa731777497e900e57cf83bfc
+SHA1: 0ab490b9e99e004af243376e6b4b1f3687c521b8
+MD5sum: aaf3baf54056199075c41665ca2e960b
+Description: killall, renice, script, time, which, getopt, what, hexdump, su
+Installed-Size: 1032
+
+Package: uikittools
+Essential: yes
+Version: 2.1.6-01
+Architecture: iphoneos-arm64
+Maintainer: Frida Team
+Suggests: shell-cmds (= 278.02)
+Conflicts: shell-cmds (<< 278-2)
+Breaks: uikittools-extra (<< 2.1.6)
+Priority: required
+Section: Utilities
+Filename: pool/main/u/uikittools/uikittools_2.1.6-01_iphoneos-arm64.deb
+Size: 73796
+SHA256: 81a9c7beb23052c0f0c3a0a4406d711c3deecad37efc8b94ce208731394c03a2
+SHA1: 1b2094472e5b4095ab7e66a84b712cb7e605226c
+MD5sum: 81e068b1be2c803926f64eabfc088ecf
+Description: Command line access for UIKit/LaunchServices/CoreServices
+Depends: libiosexec1 (>= 1.3.1)
+Installed-Size: 764
+
