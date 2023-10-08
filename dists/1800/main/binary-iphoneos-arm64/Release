@@ -1,5 +1,5 @@
 Component: main
-Origin: Your project name
-Label: Your project name
+Origin: FRM (Nightly)
+Label: FRM (Nightly)
 Architecture: iphoneos-arm64
 Description: temporary repo for FRM
