@@ -1,5 +1,5 @@
-Origin: Your project name
-Label: Your project name
+Origin: FRM (Nightly)
+Label: FRM (Nightly)
 Codename: 1800
 Architectures: iphoneos-arm64
 Components: main testing
